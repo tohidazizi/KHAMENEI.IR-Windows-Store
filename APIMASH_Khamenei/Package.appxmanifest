@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="36654AgeofInheritors.KHAMENEI.IR" Publisher="CN=8126FF80-C4C3-442D-A48F-907F66C30DBF" Version="1.0.0.5" />
+  <Properties>
+    <DisplayName>KHAMENEI.IR</DisplayName>
+    <PublisherDisplayName>Age of Inheritors</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="APIMASH_Khamenei">
+      <VisualElements DisplayName="KHAMENEI.IR" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="Displays latest news and article from the Khamenei.ir. THIS IS NOT AN OFFICIAL APPLICATION FROM KHAMENEI.IR. THE DEVELOPER OF THIS APPLICATION HAS NO RELATIONSHIP TO KHAMENEI.IR WEBSITE NOR TO ANY GOVERNMENT ORGANIZATION, NGO, ETC. RETALTED TO KHAMENEI.IR. The developer only uses API of Khamenei.ir to consume data." ForegroundText="light" BackgroundColor="#314489" ToastCapable="false">
+        <DefaultTile ShowName="allLogos" ShortName="Khamenei Starter Kit" WideLogo="Assets\WideLogo.png" />
+        <SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="#FFFFFF" />
+        <InitialRotationPreference>
+          <Rotation Preference="portrait" />
+          <Rotation Preference="landscape" />
+          <Rotation Preference="portraitFlipped" />
+          <Rotation Preference="landscapeFlipped" />
+        </InitialRotationPreference>
+      </VisualElements>
+      <Extensions>
+        <Extension Category="windows.protocol">
+          <Protocol Name="apimash" />
+        </Extension>
+      </Extensions>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

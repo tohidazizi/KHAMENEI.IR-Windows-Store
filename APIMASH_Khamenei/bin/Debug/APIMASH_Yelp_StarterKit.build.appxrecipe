@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TOHID-DELL</Machine>
+    <WindowsUser>Tohid</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Yelp_StarterKit\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Yelp_StarterKit\bin\Debug\APIMASH_ChuckNorris_StarterKit.exe">
+      <PackagePath>APIMASH_ChuckNorris_StarterKit.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Yelp_StarterKit\bin\Debug\APIMASH_ChuckNorris_StarterKit.pdb">
+      <PackagePath>APIMASH_ChuckNorris_StarterKit.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASHLib\APIMASHLib\bin\Debug\APIMASHLib.pdb">
+      <PackagePath>APIMASHLib.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_YelpLib\bin\Debug\APIMASH_ChuckNorrisLib.pdb">
+      <PackagePath>APIMASH_ChuckNorrisLib.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASHLib\APIMASHLib\bin\Debug\APIMASHLib.dll">
+      <PackagePath>APIMASHLib.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_YelpLib\bin\Debug\APIMASH_ChuckNorrisLib.dll">
+      <PackagePath>APIMASH_ChuckNorrisLib.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\packages\Newtonsoft.Json.5.0.6\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Yelp_StarterKit\Assets\Kit150x150.png">
+      <PackagePath>Assets\Kit150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Yelp_StarterKit\Assets\Kit30x30.png">
+      <PackagePath>Assets\Kit30x30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Yelp_StarterKit\Assets\Kit50x50.png">
+      <PackagePath>Assets\Kit50x50.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Yelp_StarterKit\Assets\KitSplashscreen.png">
+      <PackagePath>Assets\KitSplashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Yelp_StarterKit\Assets\miniMapLogo.png">
+      <PackagePath>Assets\miniMapLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Yelp_StarterKit\Assets\Powered_By_Yelp_Black.png">
+      <PackagePath>Assets\Powered_By_Yelp_Black.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Yelp_StarterKit\Assets\Powered_By_Yelp_Red.png">
+      <PackagePath>Assets\Powered_By_Yelp_Red.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Yelp_StarterKit\Assets\Powered_By_Yelp_White.png">
+      <PackagePath>Assets\Powered_By_Yelp_White.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Yelp_StarterKit\Assets\Powered_By_Yelp_Yellow.png">
+      <PackagePath>Assets\Powered_By_Yelp_Yellow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Yelp_StarterKit\Assets\yelp_logo_100x50.png">
+      <PackagePath>Assets\yelp_logo_100x50.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Yelp_StarterKit\Assets\yelp_logo_50x25.png">
+      <PackagePath>Assets\yelp_logo_50x25.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Yelp_StarterKit\Assets\yelp_logo_75x38.png">
+      <PackagePath>Assets\yelp_logo_75x38.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Yelp_StarterKit\Assets\reviewsFromYelpBLK.gif">
+      <PackagePath>Assets\reviewsFromYelpBLK.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Yelp_StarterKit\Assets\reviewsFromYelpRED.gif">
+      <PackagePath>Assets\reviewsFromYelpRED.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Yelp_StarterKit\Assets\reviewsFromYelpWHT.gif">
+      <PackagePath>Assets\reviewsFromYelpWHT.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Yelp_StarterKit\Assets\reviewsFromYelpYLW.gif">
+      <PackagePath>Assets\reviewsFromYelpYLW.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Yelp_StarterKit\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Yelp_StarterKit\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Yelp_StarterKit\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\packages\Newtonsoft.Json.5.0.6\lib\netcore45\Newtonsoft.Json.xml">
+      <PackagePath>Newtonsoft.Json.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Yelp_StarterKit\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

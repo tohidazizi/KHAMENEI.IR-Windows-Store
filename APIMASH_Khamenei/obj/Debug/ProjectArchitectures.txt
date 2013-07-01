@@ -1,0 +1,2 @@
+C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei.BLL\APIMASH_Khamenei.BLL.csproj;neutral
+C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei\APIMASH_Khamenei.csproj;neutral

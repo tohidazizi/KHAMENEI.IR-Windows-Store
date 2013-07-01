@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TOHID-DELL</Machine>
+    <WindowsUser>Tohid</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei\bin\Debug\APIMASH_Khamenei.exe">
+      <PackagePath>APIMASH_Khamenei.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei\bin\Debug\APIMASH_Khamenei.pdb">
+      <PackagePath>APIMASH_Khamenei.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei.BLL\bin\Debug\APIMASH_Khamenei.BLL.pdb">
+      <PackagePath>APIMASH_Khamenei.BLL.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei.BLL\bin\Debug\APIMASH_Khamenei.BLL.dll">
+      <PackagePath>APIMASH_Khamenei.BLL.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\packages\Newtonsoft.Json.5.0.6\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei\Assets\BadgeLogo.scale-180.png">
+      <PackagePath>Assets\BadgeLogo.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei\Assets\header_logo.png">
+      <PackagePath>Assets\header_logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei\Assets\KitSplashscreen.png">
+      <PackagePath>Assets\KitSplashscreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei\Assets\KitSplashscreen.scale-100.png">
+      <PackagePath>Assets\KitSplashscreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei\Assets\KitSplashscreen.scale-140.png">
+      <PackagePath>Assets\KitSplashscreen.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei\Assets\KitSplashscreen.scale-180.png">
+      <PackagePath>Assets\KitSplashscreen.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei\Assets\WideLogo.scale-180.png">
+      <PackagePath>Assets\WideLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei\Assets\logo_120x90.gif">
+      <PackagePath>Assets\logo_120x90.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei\Assets\logo_88x31.gif">
+      <PackagePath>Assets\logo_88x31.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\packages\Newtonsoft.Json.5.0.6\lib\netcore45\Newtonsoft.Json.xml">
+      <PackagePath>Newtonsoft.Json.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\vhd\apimash-StarterKits-32fb7eb\APIMASH_Khamenei\APIMASH_Khamenei\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
