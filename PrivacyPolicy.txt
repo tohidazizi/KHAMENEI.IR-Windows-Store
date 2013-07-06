@@ -1,0 +1,29 @@
+Privacy Policy for KHAMENEI.IR Windows Store App
+*******************************************
+
+(1) INTERNET ACCESS AND DATA TRANSFERRING
+=========================================
+1-1- This application uses internet to request and receive data.
+1-2- This application uses the following Web API(s):
+    . KHAMENEI.IR API: http://farsi.khamenei.ir/help-content?id=21881
+
+(2) YOUR PERSONAL INFORMATION
+==============================
+2-1- This application does NOT collect, does NOT store, and does NOT send neither your personal, nor your device information.
+2-2- This application does NOT collect and does NOT store, neither your network nor your location data.
+2-3- This application does NOT know if targeted APIs (1-2) stores or logs any network data of yours. But, this application does NOT send any extra data of yours to the API server, rather than a normal HTTP-Request, which contains no personal data of yours.
+
+(3) SECURITY OF YOUR DATA
+==========================
+3-1- This application does NOT open any network port and does NOT allow any individual or third party application to access your device.
+3-2- According to 2-1 and 2-2, this application does not collect any data of you nor your device to make it secure. 
+
+(4) CONTROL OF YOUR INFORMATION
+================================
+4-1- According to (2) and (3), this application does NOT collect or ask you to provide any information about yourself.
+
+(5) APPLICABLE LAWS AND REGULATION
+===================================
+5-1- It is your responsibility to comply with applicable laws and regulations, with respect to your Country, State, Network, and Internet Provider. 
+5-2- If you know or anytime later will find out that this application does NOT meet one or some of laws, regulations, and/or policies of  your Country, State, Network, and/or Internet Provider, it is your responsibility not to install it, or uninstall it if you have already installed it on your device(s).
+
