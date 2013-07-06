@@ -24,7 +24,7 @@
   <Applications>
     <Application Id="App" Executable="APIMASH_Khamenei.exe" EntryPoint="APIMASH_Khamenei">
       <VisualElements DisplayName="KHAMENEI.IR" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="Displays latest news and article from the Khamenei.ir. THIS IS NOT AN OFFICIAL APPLICATION FROM KHAMENEI.IR. THE DEVELOPER OF THIS APPLICATION HAS NO RELATIONSHIP TO KHAMENEI.IR WEBSITE NOR TO ANY GOVERNMENT ORGANIZATION, NGO, ETC. RETALTED TO KHAMENEI.IR. The developer only uses API of Khamenei.ir to consume data." ForegroundText="light" BackgroundColor="#314489" ToastCapable="false">
-        <DefaultTile ShowName="allLogos" ShortName="Khamenei Starter Kit" WideLogo="Assets\WideLogo.png" />
+        <DefaultTile ShowName="allLogos" ShortName="KHAMENEI.IR" WideLogo="Assets\WideLogo.png" />
         <SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="#FFFFFF" />
         <InitialRotationPreference>
           <Rotation Preference="portrait" />
@@ -33,11 +33,6 @@
           <Rotation Preference="landscapeFlipped" />
         </InitialRotationPreference>
       </VisualElements>
-      <Extensions>
-        <Extension Category="windows.protocol">
-          <Protocol Name="apimash" />
-        </Extension>
-      </Extensions>
     </Application>
   </Applications>
   <Capabilities>

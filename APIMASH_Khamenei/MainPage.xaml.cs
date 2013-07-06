@@ -46,7 +46,7 @@ namespace APIMASH_Khamenei
             // update to supply links to your about, support and privavy policy web pages
             var aboutCmd = new SettingsCommand("About", "About", (x) => Launcher.LaunchUriAsync(new Uri("http://farsi.khamenei.ir/about")));
             var supportCmd = new SettingsCommand("Support", "Support", (x) => Launcher.LaunchUriAsync(new Uri("http://farsi.khamenei.ir/contact")));
-            var policyCmd = new SettingsCommand("PrivacyPolicy", "Privacy Policy", (x) => Launcher.LaunchUriAsync(new Uri("http://YOUR_SITE_HERE/PrivacyPolicy.html")));
+            var policyCmd = new SettingsCommand("PrivacyPolicy", "Privacy Policy", (x) => Launcher.LaunchUriAsync(new Uri("https://github.com/tohidazizi/KHAMENEI.IR-Windows-Store/blob/master/PrivacyPolicy.txt")));
 
             args.Request.ApplicationCommands.Add(aboutCmd);
             args.Request.ApplicationCommands.Add(supportCmd);
